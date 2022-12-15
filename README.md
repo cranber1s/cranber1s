@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @cranber1s
-- 🌱 FrontEnd/BackEnd
+- 🌱 Learning Fullstack
 - 📫 Andriucha#2087
